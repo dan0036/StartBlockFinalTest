@@ -1,0 +1,15 @@
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/obj/Debug/net7.0/StartBlockFinalTest.csproj.AssemblyReference.cache
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/obj/Debug/net7.0/StartBlockFinalTest.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/obj/Debug/net7.0/StartBlockFinalTest.AssemblyInfoInputs.cache
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/obj/Debug/net7.0/StartBlockFinalTest.AssemblyInfo.cs
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/obj/Debug/net7.0/StartBlockFinalTest.csproj.CoreCompileInputs.cache
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/bin/Debug/net7.0/StartBlockFinalTest
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/bin/Debug/net7.0/StartBlockFinalTest.deps.json
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/bin/Debug/net7.0/StartBlockFinalTest.runtimeconfig.json
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/bin/Debug/net7.0/StartBlockFinalTest.dll
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/bin/Debug/net7.0/StartBlockFinalTest.pdb
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/obj/Debug/net7.0/StartBlockFinalTest.dll
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/obj/Debug/net7.0/refint/StartBlockFinalTest.dll
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/obj/Debug/net7.0/StartBlockFinalTest.pdb
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/obj/Debug/net7.0/StartBlockFinalTest.genruntimeconfig.cache
+/Volumes/BASE/D's_BASE/GB/C#/StartBlockFinalTest/obj/Debug/net7.0/ref/StartBlockFinalTest.dll
